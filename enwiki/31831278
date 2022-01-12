@@ -1,0 +1,207 @@
+{
+  "title": "Ouhoumoudou Mahamadou",
+  "pageID": 31831278,
+  "categories": [
+    "1954 births",
+    "Living people",
+    "Bankers",
+    "Finance ministers of Niger",
+    "Nigerien politicians",
+    "Prime Ministers of Niger"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ouhoumoudou Mahamadou (born 1954) is a Nigerien politician of the Nigerien Party for Democracy and Socialism (PNDS-Tarayya) who has been serving as Prime Minister of Niger since 3 April 2021.",
+              "links": [
+                {
+                  "text": "Nigerien",
+                  "type": "internal",
+                  "page": "Niger"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nigerien Party for Democracy and Socialism"
+                },
+                {
+                  "type": "internal",
+                  "page": "Prime Minister of Niger"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Ouhoumoudou Mahamadou"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Mahamadou served in the government of Niger as Minister of Mines, Energy, and Industry from 1991 to 1993 and as Minister of Finance from April 2011 to April 2012.",
+              "links": [
+                {
+                  "text": "Minister of Finance",
+                  "type": "internal",
+                  "page": "Finance Minister of Niger"
+                }
+              ]
+            },
+            {
+              "text": "He has been Director of the Cabinet of the President since 2015."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Prime Minister of Niger",
+          "template": "short description"
+        },
+        {
+          "date": "April 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "birth_year": "1954",
+          "template": "birth year and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Ouhoumoudou Mahamadou"
+          },
+          "image": {
+            "text": "Ouhoumoudou Mahamadou (15-04-2021) (cropped).jpg"
+          },
+          "caption": {
+            "text": "Mahamadou in 2021"
+          },
+          "office": {
+            "text": "Prime Minister of Niger",
+            "links": [
+              {
+                "text": "Prime Minister of Niger",
+                "type": "internal",
+                "page": "List of prime ministers of Niger"
+              }
+            ]
+          },
+          "president": {
+            "text": "Mohamed Bazoum",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mohamed Bazoum"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "3 April 2021"
+          },
+          "predecessor": {
+            "text": "Brigi Rafini",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Brigi Rafini"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Minister of Mines, Energy and Industry"
+          },
+          "term_start1": {
+            "text": "1991",
+            "number": 1991
+          },
+          "term_end1": {
+            "text": "1993",
+            "number": 1993
+          },
+          "office2": {
+            "text": "Minister of Finance",
+            "links": [
+              {
+                "text": "Minister of Finance",
+                "type": "internal",
+                "page": "Ministry of Finance (Niger)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "April 2011"
+          },
+          "term_end2": {
+            "text": "2012",
+            "number": 2012
+          },
+          "president2": {
+            "text": "Mahamadou Issoufou",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mahamadou Issoufou"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "Brigi Rafini",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Brigi Rafini"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Ouhoumoudou Mahamadou"
+          },
+          "birth_date": {
+            "text": "1954 (age 68)"
+          },
+          "birth_place": {
+            "text": "French Niger",
+            "links": [
+              {
+                "type": "internal",
+                "page": "French Niger"
+              }
+            ]
+          },
+          "party": {
+            "text": "Nigerien Party for Democracy and Socialism",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nigerien Party for Democracy and Socialism"
+              }
+            ]
+          },
+          "blank1": {
+            "text": "Religion"
+          },
+          "data1": {
+            "text": "Islam",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Islam"
+              }
+            ]
+          },
+          "blank2": {
+            "text": "Ethnicity"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Hassoumi Massaoudou",
+  "pageID": 12493133,
+  "categories": [
+    "Year of birth missing (living people)",
+    "Living people",
+    "Finance ministers of Niger",
+    "Ministers of council of Niger",
+    "Members of the National Assembly (Niger)",
+    "Members of the Pan-African Parliament from Niger",
+    "Nigerien Party for Democracy and Socialism politicians",
+    "Foreign ministers of Niger"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Hassoumi Massaoudou is a Nigerien politician who served in the government of Niger as Minister of Finance from October 2016 to January 2019.",
+              "links": [
+                {
+                  "text": "Nigerien",
+                  "type": "internal",
+                  "page": "Niger"
+                },
+                {
+                  "text": "Minister of Finance",
+                  "type": "internal",
+                  "page": "Finance Minister of Niger"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Hassoumi Massaoudou"
+                ]
+              }
+            },
+            {
+              "text": "A leading member of the Nigerien Party for Democracy and Socialism (PNDS-Tarayya), he was Minister of Communication, Culture, Youth and Sports from 1993 to 1994, President of the PNDS Parliamentary Group from 1999 to 2004, Director of the Cabinet of the President from 2011 to 2013, Minister of the Interior from 2013 to 2016, and Minister of National Defense in 2016 and minister of Foreign Affairs since 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Nigerien Party for Democracy and Socialism"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Nigerien politician",
+          "template": "short description"
+        }
+      ]
+    }
+  ]
+}
