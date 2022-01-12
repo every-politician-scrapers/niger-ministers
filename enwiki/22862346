@@ -1,0 +1,185 @@
+{
+  "title": "Ministry of National Competitiveness and the fight against the High Cost of Life (Niger)",
+  "pageID": 22862346,
+  "categories": [
+    "Government of Niger",
+    "Ministries established in 2007",
+    "2007 establishments in Africa"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The Ministry of National Competitiveness and the fight against the High Cost of Life (Fr.: Ministere de la Compétitivité Nationale et de la Lutte contre la Vie chère) is a Government Ministry in the West African nation of Niger.",
+              "links": [
+                {
+                  "text": "Fr.",
+                  "type": "internal",
+                  "page": "French language"
+                },
+                {
+                  "text": "Government Ministry",
+                  "type": "internal",
+                  "page": "Council of Ministers of Niger"
+                },
+                {
+                  "type": "internal",
+                  "page": "Niger"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Ministry of National Competitiveness and the fight against the High Cost of Life",
+                  "Ministere de la Compétitivité Nationale et de la Lutte contre la Vie chère"
+                ]
+              }
+            },
+            {
+              "text": "The Ministry, which originally oversaw the government's privatization office for state controlled industries, is further tasked with monitoring retail prices."
+            },
+            {
+              "text": "It was created by Presidential Decree on 1 March 2007, from elements of the previous Trade, Industry and Normalization which from 2004 to 2007 included an office of Private Sector Promotion (Its full title for this period was Commerce, de l'Industrie et de la Promotion du secteur privé).",
+              "links": [
+                {
+                  "text": "Presidential Decree",
+                  "type": "internal",
+                  "page": "President of Niger"
+                },
+                {
+                  "text": "Trade, Industry and Normalization",
+                  "type": "internal",
+                  "page": "Ministry_of_Trade,_Industry_and_Normalization_(Niger)"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Commerce, de l'Industrie et de la Promotion du secteur privé"
+                ]
+              }
+            },
+            {
+              "text": "Abdou Daouda, former Minister of Vocational and Technical Training (2004-2007) and member of the minority CDS-Rahama party, was chosen to be the Ministry's first head.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Abdou Daouda"
+                },
+                {
+                  "text": "Minister of Vocational and Technical Training",
+                  "type": "internal",
+                  "page": "Ministry_of_Vocational_and_Technical_Training_(Niger)"
+                },
+                {
+                  "type": "internal",
+                  "page": "CDS-Rahama"
+                }
+              ]
+            },
+            {
+              "text": "Abdou Daouda served there until his death on 15 May 2009."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "List of government ministers of Niger",
+            "links": [
+              {
+                "type": "internal",
+                "page": "List of government ministers of Niger"
+              }
+            ]
+          },
+          {
+            "text": "Council of Ministers of Niger",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Council of Ministers of Niger"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "date": "June 2017",
+          "bot": "InternetArchiveBot",
+          "fix-attempted": "yes",
+          "template": "dead link"
+        },
+        {
+          "list": [
+            "fr"
+          ],
+          "template": "in lang"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "\"Niger : President Mamadou Tandja approves new govt.\", African Press Agency, June 9, 2007.",
+            "links": [
+              {
+                "text": "\"Niger : President Mamadou Tandja approves new govt.\"",
+                "type": "external",
+                "site": "http://apanews.net/article_eng.php3?id_article=35026"
+              }
+            ]
+          },
+          {
+            "text": "List of governments of Niger: January 2000 - April 2007, izf.net/AFP. Accessed 2009-05-19.",
+            "links": [
+              {
+                "text": "List of governments of Niger",
+                "type": "external",
+                "site": "https://web.archive.org/web/20090303161518/http://www.izf.net/pages/gouvernement/5938/"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}
