@@ -4,7 +4,6 @@
   "categories": [
     "Government of Niger",
     "Finance ministries",
-    "Government of Niger",
     "Economy of Niger",
     "1958 establishments in Niger"
   ],
@@ -351,10 +350,15 @@
           "type": "web"
         },
         {
+          "url": "https://www.fichier-pdf.fr/2017/10/05/les-differents-gouvernements-du-niger-de-1957-a-2016/les-differents-gouvernements-du-niger-de-1957-a-2016.pdf",
+          "title": "Archived copy",
+          "website": "www.fichier-pdf.fr",
+          "access-date": "12 January 2022",
+          "archive-url": "https://web.archive.org/web/20181114224247/https://www.fichier-pdf.fr/2017/10/05/les-differents-gouvernements-du-niger-de-1957-a-2016/les-differents-gouvernements-du-niger-de-1957-a-2016.pdf",
+          "archive-date": "14 November 2018",
+          "url-status": "dead",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         }
       ]
     },
