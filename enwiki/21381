@@ -2041,10 +2041,10 @@
           "inline": {}
         },
         {
+          "url": "http://www.rfi.fr/afrique/20140719-niger-niamey-francois-hollande-visite-base-101-centre-drones-francais/",
+          "title": "Operation Barkhane (retrieved on 7/27/2014).",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
           "template": "citation",
