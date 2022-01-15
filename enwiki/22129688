@@ -199,10 +199,15 @@
       ],
       "references": [
         {
+          "url": "http://www.assemblee.ne/index.php?option=com_content&view=article&id=87&Itemid=150",
+          "title": "Archived copy",
+          "website": "www.assemblee.ne",
+          "access-date": "15 January 2022",
+          "archive-url": "https://web.archive.org/web/20160119114126/http://www.assemblee.ne/index.php?option=com_content&view=article&id=87&Itemid=150",
+          "archive-date": "19 January 2016",
+          "url-status": "dead",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         }
       ]
     },

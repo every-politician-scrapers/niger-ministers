@@ -15,7 +15,7 @@
         {
           "sentences": [
             {
-              "text": "This is a list of prime ministers of Niger since the formation of the post of Prime Minister of Niger in 1983 to the present day.",
+              "text": "This is a list of prime ministers of Niger since the formation of the post of Prime Minister of Niger in 18 December 1958 to the present day.",
               "links": [
                 {
                   "text": "prime ministers",
@@ -158,14 +158,14 @@
             ]
           },
           "formation": {
-            "text": "24 January 1983"
+            "text": "18 December 1958"
           },
           "first": {
-            "text": "Mamane Oumarou",
+            "text": "Djibo Bakary",
             "links": [
               {
                 "type": "internal",
-                "page": "Mamane Oumarou"
+                "page": "Djibo Bakary"
               }
             ]
           }
@@ -371,6 +371,133 @@
               "number": 1
             },
             "col2": {
+              "text": ""
+            },
+            "col3": {
+              "text": "Djibo Bakary                  (1920 —1998",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Djibo Bakary"
+                }
+              ]
+            },
+            "col4": {
+              "text": "20 May 1954"
+            },
+            "col5": {
+              "text": "10 November 1960"
+            },
+            "col6": {
+              "text": "7 years"
+            },
+            "col7": {
+              "text": "Independent",
+              "links": [
+                {
+                  "text": "Independent",
+                  "type": "internal",
+                  "page": "Independent politician"
+                }
+              ]
+            },
+            "col8": {
+              "text": "Hamani Diori"
+            }
+          },
+          {
+            "col1": {
+              "text": "2",
+              "number": 2
+            },
+            "col2": {
+              "text": "Hamani Diori 1968b.jpg"
+            },
+            "col3": {
+              "text": "Hamani Diori (1916–1989)",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Hamani Diori"
+                }
+              ]
+            },
+            "col4": {
+              "text": "10 November 1960"
+            },
+            "col5": {
+              "text": "15 April 1974 (deposed.)"
+            },
+            "col6": {
+              "text": ""
+            },
+            "col7": {
+              "text": "PPN–RDA",
+              "links": [
+                {
+                  "text": "PPN–RDA",
+                  "type": "internal",
+                  "page": "Nigerien Progressive Party – African Democratic Rally"
+                }
+              ]
+            },
+            "col8": {
+              "text": "Hamani Diori"
+            }
+          },
+          {
+            "col1": {
+              "text": "3",
+              "number": 3
+            },
+            "col2": {
+              "text": "Seyni Kountche 1983 cropped.jpg"
+            },
+            "col3": {
+              "text": "Seyni Kountché (1931–1987)",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Seyni Kountché"
+                }
+              ]
+            },
+            "col4": {
+              "text": "17 April 1974"
+            },
+            "col5": {
+              "text": "10 November 1983"
+            },
+            "col6": {
+              "text": ""
+            },
+            "col7": {
+              "text": "Military",
+              "links": [
+                {
+                  "text": "Military",
+                  "type": "internal",
+                  "page": "Niger Armed Forces"
+                }
+              ]
+            },
+            "col8": {
+              "text": "Kountché",
+              "links": [
+                {
+                  "text": "Kountché",
+                  "type": "internal",
+                  "page": "Seyni Kountché"
+                }
+              ]
+            }
+          },
+          {
+            "col1": {
+              "text": "4",
+              "number": 4
+            },
+            "col2": {
               "text": "No image.png"
             },
             "col3": {
@@ -383,7 +510,7 @@
               ]
             },
             "col4": {
-              "text": "24 January 1983"
+              "text": "10 November 1983"
             },
             "col5": {
               "text": "14 November 1983"
@@ -414,8 +541,8 @@
           },
           {
             "col1": {
-              "text": "2",
-              "number": 2
+              "text": "5",
+              "number": 5
             },
             "col2": {
               "text": "No image.png"
@@ -461,7 +588,7 @@
           },
           {
             "col1": {
-              "text": "(1)"
+              "text": "(4)"
             },
             "col2": {
               "text": "No image.png"
@@ -500,34 +627,53 @@
           },
           {
             "col1": {
-              "text": "Post abolished (20 December 1989 – 2 March 1990)"
+              "text": "6",
+              "number": 6
             },
             "col2": {
-              "text": ""
+              "text": "Ali Saibou.jpg"
             },
             "col3": {
-              "text": ""
+              "text": "Ali Saibou (1940–2011)",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ali Saibou"
+                }
+              ]
             },
             "col4": {
-              "text": ""
+              "text": "14 November 1987"
             },
             "col5": {
-              "text": ""
+              "text": "16 April 1993"
             },
             "col6": {
               "text": ""
             },
             "col7": {
-              "text": ""
+              "text": "Military / MNSD–Nassara",
+              "links": [
+                {
+                  "text": "Military",
+                  "type": "internal",
+                  "page": "Niger Armed Forces"
+                },
+                {
+                  "text": "MNSD–Nassara",
+                  "type": "internal",
+                  "page": "National Movement for the Development of Society"
+                }
+              ]
             },
             "col8": {
-              "text": ""
+              "text": "Saibou"
             }
           },
           {
             "col1": {
-              "text": "3",
-              "number": 3
+              "text": "7",
+              "number": 7
             },
             "col2": {
               "text": "No image.png"
@@ -566,8 +712,8 @@
           },
           {
             "col1": {
-              "text": "4",
-              "number": 4
+              "text": "8",
+              "number": 8
             },
             "col2": {
               "text": "No image.png"
@@ -613,8 +759,8 @@
           },
           {
             "col1": {
-              "text": "5",
-              "number": 5
+              "text": "9",
+              "number": 9
             },
             "col2": {
               "text": "Mahamadou Issoufou 2014.jpg"
@@ -653,8 +799,8 @@
           },
           {
             "col1": {
-              "text": "6",
-              "number": 6
+              "text": "10",
+              "number": 10
             },
             "col2": {
               "text": "No image.png"
@@ -693,8 +839,8 @@
           },
           {
             "col1": {
-              "text": "7",
-              "number": 7
+              "text": "11",
+              "number": 11
             },
             "col2": {
               "text": "No image.png"
@@ -733,8 +879,8 @@
           },
           {
             "col1": {
-              "text": "8",
-              "number": 8
+              "text": "12",
+              "number": 12
             },
             "col2": {
               "text": "Hama Amadou.jpg"
@@ -773,34 +919,48 @@
           },
           {
             "col1": {
-              "text": "Post vacant (27 – 30 January 1996)"
+              "text": "13",
+              "number": 13
             },
             "col2": {
-              "text": ""
+              "text": "No image.png"
             },
             "col3": {
-              "text": ""
+              "text": "Ibrahim Baré Maïnassara (1949–1999)",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ibrahim Baré Maïnassara"
+                }
+              ]
             },
             "col4": {
-              "text": ""
+              "text": "27 January 1996"
             },
             "col5": {
-              "text": ""
+              "text": "30 January 1996"
             },
             "col6": {
               "text": ""
             },
             "col7": {
-              "text": ""
+              "text": "Military / UNIRD / RDP–Jama'a",
+              "links": [
+                {
+                  "text": "Military",
+                  "type": "internal",
+                  "page": "Niger Armed Forces"
+                }
+              ]
             },
             "col8": {
-              "text": ""
+              "text": "Ousmane"
             }
           },
           {
             "col1": {
-              "text": "9",
-              "number": 9
+              "text": "14",
+              "number": 14
             },
             "col2": {
               "text": "No image.png"
@@ -846,7 +1006,7 @@
           },
           {
             "col1": {
-              "text": "(7)"
+              "text": "(11)"
             },
             "col2": {
               "text": "No image.png"
@@ -885,8 +1045,8 @@
           },
           {
             "col1": {
-              "text": "10",
-              "number": 10
+              "text": "15",
+              "number": 15
             },
             "col2": {
               "text": "Ibrahim-assane-mayaki-nepad-press-brefing-2011-10-07.jpg"
@@ -937,7 +1097,7 @@
           },
           {
             "col1": {
-              "text": "(8)"
+              "text": "(12)"
             },
             "col2": {
               "text": "Hama Amadou.jpg"
@@ -976,8 +1136,8 @@
           },
           {
             "col1": {
-              "text": "11",
-              "number": 11
+              "text": "16",
+              "number": 16
             },
             "col2": {
               "text": "Seyni Oumarou.png"
@@ -1016,7 +1176,8 @@
           },
           {
             "col1": {
-              "text": "–"
+              "text": "17",
+              "number": 17
             },
             "col2": {
               "text": "No image.png"
@@ -1055,8 +1216,8 @@
           },
           {
             "col1": {
-              "text": "12",
-              "number": 12
+              "text": "18",
+              "number": 18
             },
             "col2": {
               "text": "Ali Badjo Gamatie, IMF 62ph020928hl.jpg"
@@ -1095,30 +1256,39 @@
           },
           {
             "col1": {
-              "text": "Post vacant (18 – 23 February 2010)",
-              "formatting": {
-                "italic": [
-                  "Post vacant (18 – 23 February 2010)"
-                ]
-              }
+              "text": "19",
+              "number": 19
             },
             "col2": {
-              "text": ""
+              "text": "Général de corps d'armée Salou Djibo.jpg"
             },
             "col3": {
-              "text": ""
+              "text": "Salou Djibo (born 1965)",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Salou Djibo"
+                }
+              ]
             },
             "col4": {
-              "text": ""
+              "text": "18 February 2010"
             },
             "col5": {
-              "text": ""
+              "text": "7 April 2010"
             },
             "col6": {
               "text": ""
             },
             "col7": {
-              "text": ""
+              "text": "Military",
+              "links": [
+                {
+                  "text": "Military",
+                  "type": "internal",
+                  "page": "Niger Armed Forces"
+                }
+              ]
             },
             "col8": {
               "text": ""
@@ -1126,8 +1296,8 @@
           },
           {
             "col1": {
-              "text": "13",
-              "number": 13
+              "text": "20",
+              "number": 20
             },
             "col2": {
               "text": "No image.png"
@@ -1173,8 +1343,8 @@
           },
           {
             "col1": {
-              "text": "14",
-              "number": 14
+              "text": "21",
+              "number": 21
             },
             "col2": {
               "text": "Brigi Rafini - June 2012 (cropped).jpg"
@@ -1220,8 +1390,8 @@
           },
           {
             "col1": {
-              "text": "15",
-              "number": 15
+              "text": "22",
+              "number": 22
             },
             "col2": {
               "text": "Ouhoumoudou Mahamadou (15-04-2021) (cropped).jpg"
@@ -1275,6 +1445,40 @@
         },
         {
           "list": [
+            "Nigerien Progressive Party – African Democratic Rally"
+          ],
+          "template": "party color"
+        },
+        {
+          "list": [
+            "1960",
+            "11",
+            "10",
+            "1974",
+            "04",
+            "15"
+          ],
+          "template": "ayd"
+        },
+        {
+          "list": [
+            "Military rule"
+          ],
+          "template": "party color"
+        },
+        {
+          "list": [
+            "1974",
+            "04",
+            "17",
+            "1987",
+            "11",
+            "10"
+          ],
+          "template": "ayd"
+        },
+        {
+          "list": [
             "Independent politician"
           ],
           "template": "party color"
@@ -1321,6 +1525,23 @@
             "1989",
             "12",
             "20"
+          ],
+          "template": "ayd"
+        },
+        {
+          "list": [
+            "National Movement for the Development of Society"
+          ],
+          "template": "party color"
+        },
+        {
+          "list": [
+            "1987",
+            "11",
+            "14",
+            "1993",
+            "04",
+            "16"
           ],
           "template": "ayd"
         },
@@ -1423,6 +1644,23 @@
             "1996",
             "01",
             "27"
+          ],
+          "template": "ayd"
+        },
+        {
+          "list": [
+            "Rally for Democracy and Progress (Niger)"
+          ],
+          "template": "party color"
+        },
+        {
+          "list": [
+            "1996",
+            "01",
+            "27",
+            "1996",
+            "01",
+            "30"
           ],
           "template": "ayd"
         },
@@ -1542,6 +1780,23 @@
             "2010",
             "02",
             "18"
+          ],
+          "template": "ayd"
+        },
+        {
+          "list": [
+            "Military rule"
+          ],
+          "template": "party color"
+        },
+        {
+          "list": [
+            "2010",
+            "02",
+            "18",
+            "2011",
+            "04",
+            "07"
           ],
           "template": "ayd"
         },
