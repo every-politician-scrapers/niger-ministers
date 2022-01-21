@@ -449,7 +449,54 @@
               ]
             },
             "col8": {
-              "text": "Kountché Saibou",
+              "text": "Kountché",
+              "links": [
+                {
+                  "text": "Kountché",
+                  "type": "internal",
+                  "page": "Seyni Kountché"
+                }
+              ]
+            }
+          },
+          {
+            "col1": {
+              "text": "2",
+              "number": 2
+            },
+            "col2": {
+              "text": "No image.png"
+            },
+            "col3": {
+              "text": "Hamid Algabid (born 1941)",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Hamid Algabid"
+                }
+              ]
+            },
+            "col4": {
+              "text": "14 November 1983"
+            },
+            "col5": {
+              "text": "15 July 1988"
+            },
+            "col6": {
+              "text": ""
+            },
+            "col7": {
+              "text": "Independent",
+              "links": [
+                {
+                  "text": "Independent",
+                  "type": "internal",
+                  "page": "Independent politician"
+                }
+              ]
+            },
+            "col8": {
+              "text": "Saibou",
               "links": [
                 {
                   "text": "Saibou",
@@ -495,7 +542,14 @@
               ]
             },
             "col8": {
-              "text": "Saibou"
+              "text": "Saibou",
+              "links": [
+                {
+                  "text": "Saibou",
+                  "type": "internal",
+                  "page": "Ali Saibou"
+                }
+              ]
             }
           },
           {
@@ -601,7 +655,47 @@
               ]
             },
             "col8": {
-              "text": "Saibou Ousmane",
+              "text": "Saibou"
+            }
+          },
+          {
+            "col1": {
+              "text": "4",
+              "number": 4
+            },
+            "col2": {
+              "text": "No image.png"
+            },
+            "col3": {
+              "text": "Amadou Cheiffou (born 1942)",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Amadou Cheiffou"
+                }
+              ]
+            },
+            "col4": {
+              "text": "27 October 1991"
+            },
+            "col5": {
+              "text": "17 April 1993"
+            },
+            "col6": {
+              "text": ""
+            },
+            "col7": {
+              "text": "Independent",
+              "links": [
+                {
+                  "text": "Independent",
+                  "type": "internal",
+                  "page": "Independent politician"
+                }
+              ]
+            },
+            "col8": {
+              "text": "Ousmane",
               "links": [
                 {
                   "text": "Ousmane",
@@ -648,7 +742,14 @@
               ]
             },
             "col8": {
-              "text": "Ousmane"
+              "text": "Ousmane",
+              "links": [
+                {
+                  "text": "Ousmane",
+                  "type": "internal",
+                  "page": "Mahamane Ousmane"
+                }
+              ]
             }
           },
           {
@@ -688,7 +789,14 @@
               ]
             },
             "col8": {
-              "text": "Ousmane"
+              "text": "Ousmane",
+              "links": [
+                {
+                  "text": "Ousmane",
+                  "type": "internal",
+                  "page": "Mahamane Ousmane"
+                }
+              ]
             }
           },
           {
@@ -728,7 +836,14 @@
               ]
             },
             "col8": {
-              "text": "Ousmane"
+              "text": "Ousmane",
+              "links": [
+                {
+                  "text": "Ousmane",
+                  "type": "internal",
+                  "page": "Mahamane Ousmane"
+                }
+              ]
             }
           },
           {
@@ -768,7 +883,14 @@
               ]
             },
             "col8": {
-              "text": "Ousmane"
+              "text": "Ousmane",
+              "links": [
+                {
+                  "text": "Ousmane",
+                  "type": "internal",
+                  "page": "Mahamane Ousmane"
+                }
+              ]
             }
           },
           {
@@ -880,7 +1002,14 @@
               ]
             },
             "col8": {
-              "text": "Maïnassara"
+              "text": "Maïnassara",
+              "links": [
+                {
+                  "text": "Maïnassara",
+                  "type": "internal",
+                  "page": "Ibrahim Baré Maïnassara"
+                }
+              ]
             }
           },
           {
@@ -920,13 +1049,102 @@
               ]
             },
             "col8": {
-              "text": "Maïnassara Wanké Tandja",
+              "text": "Maïnassara",
+              "links": [
+                {
+                  "text": "Maïnassara",
+                  "type": "internal",
+                  "page": "Ibrahim Baré Maïnassara"
+                }
+              ]
+            }
+          },
+          {
+            "col1": {
+              "text": "10",
+              "number": 10
+            },
+            "col2": {
+              "text": "Ibrahim-assane-mayaki-nepad-press-brefing-2011-10-07.jpg"
+            },
+            "col3": {
+              "text": "Ibrahim Hassane Mayaki (born 1951)",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ibrahim Hassane Mayaki"
+                }
+              ]
+            },
+            "col4": {
+              "text": "27 November 1997"
+            },
+            "col5": {
+              "text": "1 January 2000"
+            },
+            "col6": {
+              "text": ""
+            },
+            "col7": {
+              "text": "RDP–Jama'a",
+              "links": [
+                {
+                  "text": "RDP–Jama'a",
+                  "type": "internal",
+                  "page": "Rally for Democracy and Progress (Niger)"
+                }
+              ]
+            },
+            "col8": {
+              "text": "Wanké",
               "links": [
                 {
                   "text": "Wanké",
                   "type": "internal",
                   "page": "Daouda Malam Wanké"
-                },
+                }
+              ]
+            }
+          },
+          {
+            "col1": {
+              "text": "10",
+              "number": 10
+            },
+            "col2": {
+              "text": "Ibrahim-assane-mayaki-nepad-press-brefing-2011-10-07.jpg"
+            },
+            "col3": {
+              "text": "Ibrahim Hassane Mayaki (born 1951)",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ibrahim Hassane Mayaki"
+                }
+              ]
+            },
+            "col4": {
+              "text": "27 November 1997"
+            },
+            "col5": {
+              "text": "1 January 2000"
+            },
+            "col6": {
+              "text": ""
+            },
+            "col7": {
+              "text": "RDP–Jama'a",
+              "links": [
+                {
+                  "text": "RDP–Jama'a",
+                  "type": "internal",
+                  "page": "Rally for Democracy and Progress (Niger)"
+                }
+              ]
+            },
+            "col8": {
+              "text": "Tandja",
+              "links": [
                 {
                   "text": "Tandja",
                   "type": "internal",
@@ -971,7 +1189,14 @@
               ]
             },
             "col8": {
-              "text": "Tandja"
+              "text": "Tandja",
+              "links": [
+                {
+                  "text": "Tandja",
+                  "type": "internal",
+                  "page": "Mamadou Tandja"
+                }
+              ]
             }
           },
           {
@@ -1011,7 +1236,14 @@
               ]
             },
             "col8": {
-              "text": "Tandja"
+              "text": "Tandja",
+              "links": [
+                {
+                  "text": "Tandja",
+                  "type": "internal",
+                  "page": "Mamadou Tandja"
+                }
+              ]
             }
           },
           {
@@ -1050,7 +1282,14 @@
               ]
             },
             "col8": {
-              "text": "Tandja"
+              "text": "Tandja",
+              "links": [
+                {
+                  "text": "Tandja",
+                  "type": "internal",
+                  "page": "Mamadou Tandja"
+                }
+              ]
             }
           },
           {
@@ -1090,7 +1329,14 @@
               ]
             },
             "col8": {
-              "text": "Tandja"
+              "text": "Tandja",
+              "links": [
+                {
+                  "text": "Tandja",
+                  "type": "internal",
+                  "page": "Mamadou Tandja"
+                }
+              ]
             }
           },
           {
