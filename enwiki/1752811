@@ -79,6 +79,10 @@
           "template": "short description"
         },
         {
+          "date": "February 2022",
+          "template": "use dmy dates"
+        },
+        {
           "template": "politics of niger"
         }
       ],
@@ -1927,16 +1931,13 @@
       ],
       "templates": [
         {
-          "template": "nigerpms"
-        },
-        {
-          "template": "years in niger"
+          "template": "prime ministers of niger"
         },
         {
           "template": "niger topics"
         },
         {
-          "template": "heads of state and government of african states"
+          "template": "heads of state and government of africa"
         }
       ],
       "lists": [
