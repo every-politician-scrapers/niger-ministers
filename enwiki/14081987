@@ -101,11 +101,12 @@
             "number": 5
           },
           "précédent": {
-            "text": "Gouvernement Brigi Rafini",
+            "text": "Rafini",
             "links": [
               {
+                "text": "Rafini",
                 "type": "internal",
-                "page": "Gouvernement Brigi Rafini"
+                "page": "Gouvernement Brigi Rafini (1)"
               }
             ]
           }
