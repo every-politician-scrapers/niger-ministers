@@ -986,6 +986,27 @@
               "text": "In 2014, a logistic company was trained and equipped by the United States with fuel and water trucks, ambulances and 4x4 unarmed vehicles."
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The United States Air Force has a presence both at Nigerien Air Base 101 near Niamey and Nigerien Air Base 201 at Agadez.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "United States Air Force"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nigerien Air Base 201"
+                },
+                {
+                  "type": "internal",
+                  "page": "Agadez"
+                }
+              ]
+            }
+          ]
         }
       ],
       "references": [
@@ -994,12 +1015,22 @@
           "type": "inline",
           "data": {},
           "inline": {}
+        },
+        {
+          "date": "2019-08-15",
+          "title": "New USAF Base in Niger Begins Limited Operations",
+          "url": "https://www.airforcemag.com/new-usaf-base-in-niger-begins-limited-operations/",
+          "access-date": "2022-03-09",
+          "website": "Air Force Magazine",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
         }
       ]
     },
     {
-      "title": "Aircraft",
-      "depth": 0,
+      "title": "Aircraft inventory",
+      "depth": 1,
       "paragraphs": [
         {
           "sentences": [
@@ -1020,15 +1051,6 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "title": "Current inventory",
-      "depth": 1,
-      "paragraphs": [
-        {
-          "sentences": []
         }
       ],
       "images": [
@@ -2340,12 +2362,27 @@
       ]
     },
     {
-      "title": "Notes",
+      "title": "Flag Note",
       "depth": 0,
       "templates": [
         {
           "group": "nb",
           "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "Citations",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "list": [
+            "Military of Niger"
+          ],
+          "template": "commons category"
         }
       ]
     },
@@ -2358,15 +2395,6 @@
         }
       ],
       "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "list": [
-            "Military of Niger"
-          ],
-          "template": "commons category"
-        },
         {
           "id": "90-5727-033-1",
           "template": "isbn"
