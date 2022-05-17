@@ -97,16 +97,8 @@
           "file": "File:Niger_Army_322nd_Parachute_Regiment.jpg",
           "thumb": "https://en.wikipedia.org/wiki/Special:Redirect/file/Niger_Army_322nd_Parachute_Regiment.jpg?width=300",
           "url": "https://en.wikipedia.org/wiki/Special:Redirect/file/Niger_Army_322nd_Parachute_Regiment.jpg",
-          "caption": "Nigerien army soldiers from the 322nd Parachute Regiment practice field tactics during combat training facilitated by U.S. Army soldiers during exercise Flintlock 2007 in Maradi, Niger, April 6, 2007",
+          "caption": "Soldiers from the 322nd Parachute Regiment practice field tactics with the U.S. Army, 2007",
           "links": []
-        }
-      ],
-      "templates": [
-        {
-          "template": "tsp"
-        },
-        {
-          "template": "-"
         }
       ],
       "infoboxes": [
@@ -222,15 +214,6 @@
                 "page": "Military ranks of Niger"
               }
             ]
-          },
-          "country": {
-            "text": "Niger"
-          },
-          "image2": {
-            "text": "Flag of niger armed forces obv.jpg"
-          },
-          "caption2": {
-            "text": "Flag of the Niger Armed Forces"
           }
         }
       ],
@@ -396,9 +379,6 @@
       "depth": 2,
       "paragraphs": [
         {
-          "sentences": []
-        },
-        {
           "sentences": [
             {
               "text": "The Niger Army was created on 28 July 1960 by decree."
@@ -481,15 +461,6 @@
               ]
             }
           ]
-        }
-      ],
-      "images": [
-        {
-          "file": "File:Motorised_company_armed_forces_niger.png",
-          "thumb": "https://en.wikipedia.org/wiki/Special:Redirect/file/Motorised_company_armed_forces_niger.png?width=300",
-          "url": "https://en.wikipedia.org/wiki/Special:Redirect/file/Motorised_company_armed_forces_niger.png",
-          "caption": "Motorized company of the Niger Army during a parade in Niamey",
-          "links": []
         }
       ],
       "references": [
@@ -598,6 +569,23 @@
               "text": "Logistically, fuel and water transportation tanks, and ambulances have been recently improved to help in long-distance patrol missions as well as with general increased logistic capacity of the army."
             }
           ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Flag_of_niger_armed_forces_obv.jpg",
+          "thumb": "https://en.wikipedia.org/wiki/Special:Redirect/file/Flag_of_niger_armed_forces_obv.jpg?width=300",
+          "url": "https://en.wikipedia.org/wiki/Special:Redirect/file/Flag_of_niger_armed_forces_obv.jpg",
+          "caption": "Flag of the Niger Armed Forces",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "tsp"
+        },
+        {
+          "template": "-"
         }
       ],
       "references": [
@@ -1812,13 +1800,6 @@
         }
       ],
       "images": [
-        {
-          "file": "File:DF-ST-92-07443-C.jpg",
-          "thumb": "https://en.wikipedia.org/wiki/Special:Redirect/file/DF-ST-92-07443-C.jpg?width=300",
-          "url": "https://en.wikipedia.org/wiki/Special:Redirect/file/DF-ST-92-07443-C.jpg",
-          "caption": "Soldiers of the Niger army during the Gulf War",
-          "links": []
-        },
         {
           "file": "Image:Niger_Panhard_AML.JPG",
           "thumb": "https://en.wikipedia.org/wiki/Special:Redirect/file/Niger_Panhard_AML.JPG?width=300",
