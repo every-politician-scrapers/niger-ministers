@@ -189,7 +189,7 @@
         {
           "sentences": [
             {
-              "text": "Le gouvernement, présidé par le Premier ministre Ouhoumoudou Mahamadou, compte 33 ministres qui sont :",
+              "text": "Le gouvernement, présidé par le Premier ministre Ouhoumoudou Mahamadou, compte 33 Ministères qui sont :",
               "links": [
                 {
                   "type": "internal",
@@ -203,7 +203,7 @@
       "lists": [
         [
           {
-            "text": "Ministre des Affaires étrangères et de la coopération : Hassoumi Massoudou",
+            "text": "Ministère des Affaires étrangères et de la coopération : Hassoumi Massoudou",
             "links": [
               {
                 "type": "internal",
@@ -212,7 +212,7 @@
             ]
           },
           {
-            "text": "Ministre d'Etat à la présidence de la République : Rhissa Ag Boula",
+            "text": "Ministère d'Etat à la présidence de la République : Rhissa Ag Boula",
             "links": [
               {
                 "type": "internal",
@@ -221,16 +221,22 @@
             ]
           },
           {
-            "text": "Ministre de la Défense nationale : Alkassoum Indattou",
+            "text": "Ministère de la Défense nationale : Alkassoum Indattou",
             "links": [
               {
+                "text": "Ministère de la Défense nationale",
                 "type": "internal",
-                "page": "Alkassoum Indattou"
+                "page": "Ministère de la Défense nationale (Niger)"
+              },
+              {
+                "text": "Alkassoum Indattou",
+                "type": "internal",
+                "page": "Alkassoum Indatou"
               }
             ]
           },
           {
-            "text": "Ministre de l'Intérieur et de la décentralisation: Alkache Alhada",
+            "text": "Ministère de l'Intérieur et de la décentralisation: Alkache Alhada",
             "links": [
               {
                 "type": "internal",
@@ -239,7 +245,7 @@
             ]
           },
           {
-            "text": "Ministre de la Formation professionnelle : Kassoum Maman Moctar",
+            "text": "Ministère de la Formation professionnelle : Kassoum Maman Moctar",
             "links": [
               {
                 "type": "internal",
@@ -248,7 +254,7 @@
             ]
           },
           {
-            "text": "Ministre de l'Enseignement supérieur et de la Recherche : Mamoudou Djibo",
+            "text": "Ministère de l'Enseignement supérieur et de la Recherche : Mamoudou Djibo",
             "links": [
               {
                 "type": "internal",
@@ -257,7 +263,7 @@
             ]
           },
           {
-            "text": "Ministre de la Santé Publique, de la Population et des Affaires sociales : Illiassou Idi Mainassara",
+            "text": "Ministère de la Santé Publique, de la Population et des Affaires sociales : Illiassou Idi Mainassara",
             "links": [
               {
                 "type": "internal",
@@ -266,7 +272,7 @@
             ]
           },
           {
-            "text": "Ministre des Mines : Ousseini Hadizatou Yacouba",
+            "text": "Ministère des Mines : Ousseini Hadizatou Yacouba",
             "links": [
               {
                 "type": "internal",
@@ -275,7 +281,7 @@
             ]
           },
           {
-            "text": "Ministre de la Poste et des Nouvelles Technologies de l'Information : Hassane Barazé Moussa",
+            "text": "Ministère de la Poste et des Nouvelles Technologies de l'Information : Hassane Barazé Moussa",
             "links": [
               {
                 "type": "internal",
@@ -284,7 +290,7 @@
             ]
           },
           {
-            "text": "Ministre des Transports : Oumarou Malam Alma",
+            "text": "Ministère des Transports : Oumarou Malam Alma",
             "links": [
               {
                 "type": "internal",
@@ -293,7 +299,7 @@
             ]
           },
           {
-            "text": "Ministre de l'Action humanitaire et de la gestion des catastrophes : Laouan Magagi",
+            "text": "Ministère de l'Action humanitaire et de la gestion des catastrophes : Laouan Magagi",
             "links": [
               {
                 "type": "internal",
@@ -302,7 +308,7 @@
             ]
           },
           {
-            "text": "Ministre de l'Élevage et porte-parole du gouvernement : Tidjani Idrissa Abdoulkadri",
+            "text": "Ministère de l'Élevage et porte-parole du gouvernement : Tidjani Idrissa Abdoulkadri",
             "links": [
               {
                 "type": "internal",
@@ -311,7 +317,7 @@
             ]
           },
           {
-            "text": "Ministre de l'Équipement : Hamadou Adamou Souley",
+            "text": "Ministère de l'Équipement : Hamadou Adamou Souley",
             "links": [
               {
                 "type": "internal",
@@ -320,7 +326,7 @@
             ]
           },
           {
-            "text": "Ministre de la Justice et Garde des Sceaux : Boubakar Hassan",
+            "text": "Ministère de la Justice et Garde des Sceaux : Boubakar Hassan",
             "links": [
               {
                 "type": "internal",
@@ -329,7 +335,7 @@
             ]
           },
           {
-            "text": "Ministre de la Communication, chargé des Relations avec les institutions : Zada Mahamadou",
+            "text": "Ministère de la Communication, chargé des Relations avec les institutions : Zada Mahamadou",
             "links": [
               {
                 "type": "internal",
@@ -338,7 +344,7 @@
             ]
           },
           {
-            "text": "Ministre des Finances : Ahmat Jidoud",
+            "text": "Ministère des Finances : Ahmat Jidoud",
             "links": [
               {
                 "type": "internal",
@@ -347,7 +353,7 @@
             ]
           },
           {
-            "text": "Ministre du Commerce, de l'Industrie et de l'Entreprenariat des jeunes : Gado Sabo Moctar",
+            "text": "Ministère du Commerce, de l'Industrie et de l'Entreprenariat des jeunes : Gado Sabo Moctar",
             "links": [
               {
                 "type": "internal",
@@ -356,7 +362,7 @@
             ]
           },
           {
-            "text": "Ministre de l'Agriculture : Alambedji Abba Issa",
+            "text": "Ministère de l'Agriculture : Alambedji Abba Issa",
             "links": [
               {
                 "type": "internal",
@@ -365,7 +371,7 @@
             ]
           },
           {
-            "text": "Ministre de l'Urbanisme, du Logement et de l'Assainissement : Maïzoumbou Laoual Amadou",
+            "text": "Ministère de l'Urbanisme, du Logement et de l'Assainissement : Maïzoumbou Laoual Amadou",
             "links": [
               {
                 "type": "internal",
@@ -374,7 +380,7 @@
             ]
           },
           {
-            "text": "Ministre du Plan : Abdou Rabiou",
+            "text": "Ministère du Plan : Abdou Rabiou",
             "links": [
               {
                 "type": "internal",
@@ -383,7 +389,7 @@
             ]
           },
           {
-            "text": "Ministre du Pétrole, de l'Énergie et des Énergies renouvelables : Sani Issoufou Mahamadou",
+            "text": "Ministère du Pétrole, de l'Énergie et des Énergies renouvelables : Sani Issoufou Mahamadou",
             "links": [
               {
                 "type": "internal",
@@ -392,7 +398,7 @@
             ]
           },
           {
-            "text": "Ministre de la Culture, du Tourisme et de l'Artisanat : Mohamed Hamid",
+            "text": "Ministère de la Culture, du Tourisme et de l'Artisanat : Mohamed Hamid",
             "links": [
               {
                 "type": "internal",
@@ -401,7 +407,7 @@
             ]
           },
           {
-            "text": "Ministre de l'Aménagement du territoire et du Développement communautaire : Maman Ibrahim Mahaman",
+            "text": "Ministère de l'Aménagement du territoire et du Développement communautaire : Maman Ibrahim Mahaman",
             "links": [
               {
                 "type": "internal",
@@ -410,7 +416,7 @@
             ]
           },
           {
-            "text": "Ministre de la Promotion de la Femme et de la Protection de l'Enfant : Allahoury Aminata Zourkaleini",
+            "text": "Ministère de la Promotion de la Femme et de la Protection de l'Enfant : Allahoury Aminata Zourkaleini",
             "links": [
               {
                 "type": "internal",
@@ -419,7 +425,7 @@
             ]
           },
           {
-            "text": "Ministre de l'Éducation nationale : Rabiou Ousman",
+            "text": "Ministère de l'Éducation nationale : Rabiou Ousman",
             "links": [
               {
                 "type": "internal",
@@ -428,7 +434,7 @@
             ]
           },
           {
-            "text": "Ministre de l'Hydraulique : Adamou Mahaman",
+            "text": "Ministère de l'Hydraulique : Adamou Mahaman",
             "links": [
               {
                 "type": "internal",
@@ -437,7 +443,7 @@
             ]
           },
           {
-            "text": "Ministre de la Fonction publique et du Travail : Ataka Zaharatou Aboubacar",
+            "text": "Ministère de la Fonction publique et du Travail : Ataka Zaharatou Aboubacar",
             "links": [
               {
                 "type": "internal",
@@ -446,7 +452,7 @@
             ]
           },
           {
-            "text": "Ministre de l'Environnement et de la Lutte contre la désertification : Garama Saratou Rabiou Inoussa",
+            "text": "Ministère de l'Environnement et de la Lutte contre la désertification : Garama Saratou Rabiou Inoussa",
             "links": [
               {
                 "type": "internal",
@@ -455,7 +461,7 @@
             ]
           },
           {
-            "text": "Ministre de l'Emploi et de la Protection sociale : Ibrahim Boukary",
+            "text": "Ministère de l'Emploi et de la Protection sociale : Ibrahim Boukary",
             "links": [
               {
                 "type": "internal",
@@ -464,7 +470,7 @@
             ]
           },
           {
-            "text": "Ministre de la Jeunesse et du Sport : Sekou Doro Adamou",
+            "text": "Ministère de la Jeunesse et du Sport : Sekou Doro Adamou",
             "links": [
               {
                 "type": "internal",
@@ -473,7 +479,7 @@
             ]
           },
           {
-            "text": "Ministre déléguée auprès du ministre des Finances, chargée du Budget : Gourouza Magagi Salmou",
+            "text": "Ministère déléguée auprès du Ministère des Finances, chargée du Budget : Gourouza Magagi Salmou",
             "links": [
               {
                 "type": "internal",
@@ -482,7 +488,7 @@
             ]
           },
           {
-            "text": "Ministre délégué auprès du ministre de l'Intérieur et de la Décentralisation, chargé de la Décentralisation : Dardaou Zaneidou",
+            "text": "Ministère délégué auprès du Ministère de l'Intérieur et de la Décentralisation, chargé de la Décentralisation : Dardaou Zaneidou",
             "links": [
               {
                 "type": "internal",
@@ -491,7 +497,7 @@
             ]
           },
           {
-            "text": "Ministre délégué auprès du ministre d'État aux Affaires étrangères et de la Coopération, chargé de l'Intégration africaine : Youssouf Mohamed Almouctar",
+            "text": "Ministère délégué auprès du Ministère d'État aux Affaires étrangères et de la Coopération, chargé de l'Intégration africaine : Youssouf Mohamed Almouctar",
             "links": [
               {
                 "type": "internal",
@@ -601,6 +607,12 @@
         }
       ],
       "templates": [
+        {
+          "list": [
+            "Ministères au Niger"
+          ],
+          "template": "palette"
+        },
         {
           "list": [
             "politique",
