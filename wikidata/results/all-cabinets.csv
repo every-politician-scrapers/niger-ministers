@@ -1,5 +1,5 @@
 ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-,Q2376805,Brigi Rafini's Cabinet,,,,,,,,,Q3111988,Mahamadou Ganda's Cabinet,,,,,,
+,Q2376805,Brigi Rafini's Cabinet,,,,,,,,,Q3111988,Mahamadou Ganda's Cabinet,Q109037622,Mahamadou Cabinet,,,,
 ,Q3111988,Mahamadou Ganda's Cabinet,,,,,,,,,Q3112336,Seyni Oumarou's Cabinet,Q2376805,Brigi Rafini's Cabinet,,,,
 ,Q3112094,Hama Amadou's Cabinet I,,,,,,,,,,,Q3112095,Hama Amadou's Cabinet II,,,,
 ,Q3112095,Hama Amadou's Cabinet II,,,,,,,,,Q3112094,Hama Amadou's Cabinet I,Q3112097,Hama Amadou's Cabinet III,,,,
