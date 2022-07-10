@@ -206,6 +206,31 @@
               }
             ]
           },
+          "history": {
+            "text": "Tuareg rebellion (1990–1995) Tuareg rebellion (2007–2009) United Nations Operation in Côte d'Ivoire Boko Haram insurgency Islamist insurgency in the Sahel",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tuareg rebellion (1990–1995)"
+              },
+              {
+                "type": "internal",
+                "page": "Tuareg rebellion (2007–2009)"
+              },
+              {
+                "type": "internal",
+                "page": "United Nations Operation in Côte d'Ivoire"
+              },
+              {
+                "type": "internal",
+                "page": "Boko Haram insurgency"
+              },
+              {
+                "type": "internal",
+                "page": "Islamist insurgency in the Sahel"
+              }
+            ]
+          },
           "ranks": {
             "text": "Military ranks of Niger",
             "links": [
@@ -218,6 +243,18 @@
         }
       ],
       "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
         {
           "template": "citation",
           "type": "inline",
@@ -857,35 +894,59 @@
               "text": "The predecessor of the Niger Air Force, the Niger National Escadrille (Escadrille Nationale du Niger) was first formed in 1961."
             },
             {
-              "text": "It was later restructured into the National Air Wing (Groupement Aerien National) in 1989."
+              "text": "It was later restructured into the National Air Wing (Groupement Aérien National) in 1989."
             },
             {
-              "text": "Prior to 2003, military armed forces of Niger (forces armées nigeriennes or FAN) were grouped in one branch with one Chief of Staff who oversees both ground forces as well as the National Air Wing."
+              "text": "Prior to 2003, the armed forces of Niger (forces armées nigériennes or FAN) were grouped in one branch with one Chief of Staff overseeing both the ground forces and the National Air Wing."
             },
             {
-              "text": "Following an organizational restructuring in 2003, the military armed forces of Niger were structured into two main service branches: Niger Army (French: armée de terre) for all ground military forces and Niger Air Force (Armée de l'air)."
+              "text": "Following an organizational restructuring in 2003, the armed forces of Niger were structured into two main service branches: Niger Army (French: armée de terre) for all ground forces and Niger Air Force (Armée de l'air)."
             },
             {
               "text": "Each branch was headed by a Chief of Staff answerable to the Joint Chief of Staff of military armed forces."
             },
             {
-              "text": "As part of this new structure, the National Air Wing was renamed as Niger Air Force (Armée de l'Air du Niger) on December 17, 2003."
+              "text": "As part of this new structure, the National Air Wing was renamed as Niger Air Force (Force Aérienne du Niger) on December 17, 2003."
             },
             {
-              "text": "The Niger Air Force is led by the Air Force Chief of staff answerable to the Joint Chief and the Defense Minister."
-            },
-            {
-              "text": "Presently, the Chief of Staff is Col. Boulama Issa."
+              "text": "The Niger Air Force is led by the Air Force Chief of staff, answerable to the Joint Chief and the Defense Minister."
             }
           ]
         }
       ],
+      "templates": [
+        {
+          "date": "July 2022",
+          "template": "cn"
+        },
+        {
+          "date": "July 2022",
+          "template": "cn"
+        }
+      ],
       "references": [
         {
+          "url": "http://www.lesahel.org/index.php?option=com_content&view=article&id=8012%3Acinquantenaire-de-laviation-militaire-du-niger--un-demi-siecle-de-professionnalisme-et-dexcellence-au-service-de-la-nation&catid=34%3Aactualites&Itemid=53",
+          "title": "Cinquantenaire de l'aviation militaire du Niger : un demi siècle de professionnalisme et d'excellence au service de la Nation",
+          "first": "Moussa",
+          "last": "Zabeirou",
+          "date": "3 August 2011",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20120322211258/http://www.lesahel.org/index.php?option=com_content&view=article&id=8012%3Acinquantenaire-de-laviation-militaire-du-niger--un-demi-siecle-de-professionnalisme-et-dexcellence-au-service-de-la-nation&catid=34%3Aactualites&Itemid=53",
+          "archive-date": "March 22, 2012",
+          "website": "Le Sahel",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
+        },
+        {
+          "last1": "Delalande",
+          "first1": "Arnaud",
+          "title": "Niger’s desert warriors",
+          "url": "https://www.key.aero/article/nigers-desert-warriors",
+          "website": "Key Aero",
+          "date": "15 March 2018",
+          "template": "citation",
+          "type": "web"
         }
       ]
     },
@@ -949,7 +1010,7 @@
               "text": "At the moment, there is no air force special training facilities in Niger."
             },
             {
-              "text": "Basic training of Air Force recruits is conducted at Tondibiah base along with recruits of other military service branches.",
+              "text": "Basic training of Air Force recruits is conducted at the Tondibiah base along with recruits of other military service branches.",
               "links": [
                 {
                   "type": "internal",
@@ -958,7 +1019,7 @@
               ]
             },
             {
-              "text": "Air force officers, pilots and mechanics are additionally trained in France, US and other North Africa countries like Morocco at Royal Air Force School of Marrakech and Algeria.",
+              "text": "Air force officers, pilots and mechanics are additionally trained in France, the United States and other North African countries like Morocco at the Royal Air Force School of Marrakech and Algeria.",
               "links": [
                 {
                   "text": "Royal Air Force School of Marrakech",
@@ -968,7 +1029,7 @@
               ]
             },
             {
-              "text": "In addition, local training activities are undertaken with foreign partners (U.S., France etc.) to update skills."
+              "text": "In addition, local training activities are undertaken with foreign partners (United States, France etc.) to update skills."
             },
             {
               "text": "In 2014, a logistic company was trained and equipped by the United States with fuel and water trucks, ambulances and 4x4 unarmed vehicles."
@@ -1023,7 +1084,7 @@
         {
           "sentences": [
             {
-              "text": "The aircraft inventory of the Niger Air Force is modest though it has increased with new acquisitions beginning in 2008, and further assistance from France and the US."
+              "text": "The aircraft inventory of the Niger Air Force is modest though it has increased with new acquisitions beginning in 2008, and further assistance from France and the United States."
             },
             {
               "text": "This expansion in capacity is guided by the need for better border patrol following the crisis in Libya and Mali.",
@@ -1046,7 +1107,7 @@
           "file": "File:Roundel_of_Niger.svg",
           "thumb": "https://en.wikipedia.org/wiki/Special:Redirect/file/Roundel_of_Niger.svg?width=300",
           "url": "https://en.wikipedia.org/wiki/Special:Redirect/file/Roundel_of_Niger.svg",
-          "caption": "Roundel of Niger Air Force",
+          "caption": "Roundel of the Niger Air Force",
           "links": []
         }
       ],
@@ -1063,11 +1124,11 @@
               ]
             },
             "Origin": {
-              "text": "Russia",
+              "text": "Soviet Union",
               "links": [
                 {
                   "type": "internal",
-                  "page": "Russia"
+                  "page": "Soviet Union"
                 }
               ]
             },
@@ -1161,10 +1222,9 @@
           },
           {
             "Aircraft": {
-              "text": "Super King Air",
+              "text": "Beechcraft Super King Air",
               "links": [
                 {
-                  "text": "Super King Air",
                   "type": "internal",
                   "page": "Beechcraft Super King Air"
                 }
@@ -1204,10 +1264,9 @@
           },
           {
             "Aircraft": {
-              "text": "C-130 Hercules",
+              "text": "Lockheed C-130 Hercules",
               "links": [
                 {
-                  "text": "C-130 Hercules",
                   "type": "internal",
                   "page": "Lockheed C-130 Hercules"
                 }
