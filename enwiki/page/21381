@@ -101,6 +101,12 @@
           "links": []
         }
       ],
+      "templates": [
+        {
+          "description": "Combined military forces of Niger",
+          "template": "short description"
+        }
+      ],
       "infoboxes": [
         {
           "name": {
@@ -1397,7 +1403,7 @@
                   "text": "anti-armor",
                   "type": "internal",
                   "page": "Anti-tank warfare",
-                  "anchor": "Helicopters"
+                  "anchor": "Helicopter"
                 }
               ]
             },
