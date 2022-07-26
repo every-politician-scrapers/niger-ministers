@@ -1,9 +1,9 @@
-pageid,title
-11571115,Mohamed Bazoum
-11582116,Seyni Oumarou
-12493133,Hassoumi Massaoudou
-26585884,Amina Bazindre
-31831278,Ouhoumoudou Mahamadou
-49331266,Aïchatou Boulama Kané
-52241091,Hassana Alidou
-66713935,Fatima Djibo Sidikou
+pageid,title,wikidata,label
+11571115,Mohamed Bazoum,Q3318398,Mohamed Bazoum
+11582116,Seyni Oumarou,Q703987,Seyni Oumarou
+12493133,Hassoumi Massaoudou,Q5680106,Hassoumi Massoudou
+26585884,Amina Bazindre,Q4075272,Amina Bazindre
+31831278,Ouhoumoudou Mahamadou,Q7110324,Ouhoumoudou Mahamadou
+49331266,Aïchatou Boulama Kané,Q794630,Aïchatou Boulama Kané
+52241091,Hassana Alidou,Q27824558,Hassana Alidou
+66713935,Fatima Djibo Sidikou,Q31271335,Fatima Djibo Sidikou
