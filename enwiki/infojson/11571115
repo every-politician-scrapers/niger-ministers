@@ -1,0 +1,118 @@
+[
+  {
+    "office": {
+      "links": [
+        "National Assembly (Niger)"
+      ],
+      "stated_as": "Member of the National Assembly"
+    },
+    "P580": "1993-04-11",
+    "P582": "1995-01"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Foreign Affairs, Cooperation and African Integration"
+      ],
+      "stated_as": "Minister of Foreign Affairs"
+    },
+    "P580": "1995",
+    "P1365": {
+      "links": [
+        "Abdourahmane Hama"
+      ],
+      "stated_as": "Abdourahmane Hama"
+    },
+    "P582": "1996",
+    "P1366": {
+      "links": [
+        "André Salifou"
+      ],
+      "stated_as": "André Salifou"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "National Assembly (Niger)"
+      ],
+      "stated_as": "Member of the National Assembly"
+    },
+    "P580": "2005-02",
+    "P582": "unknown"
+  },
+  {
+    "office": {
+      "links": [
+        "Nigerien Party for Democracy and Socialism"
+      ],
+      "stated_as": "President of the Nigerien Party for Democracy and Socialism"
+    },
+    "P580": "2011-03",
+    "P1365": {
+      "links": [
+        "Mahamadou Issoufou"
+      ],
+      "stated_as": "Mahamadou Issoufou"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Foreign Affairs, Cooperation and African Integration"
+      ],
+      "stated_as": "Minister of Foreign Affairs"
+    },
+    "P580": "2011-04-21",
+    "P1365": {
+      "links": [
+        "Touré Aminatou Maiga"
+      ],
+      "stated_as": "Touré Aminatou Maiga"
+    },
+    "P582": "2015-02-25",
+    "P1366": {
+      "links": [
+        "Aïchatou Boulama Kané"
+      ],
+      "stated_as": "Aïchatou Boulama Kané"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Interior, Public Safety and Decentralization (Niger)"
+      ],
+      "stated_as": "Minister of the Interior"
+    },
+    "P580": "2016-04-13",
+    "P1365": {
+      "links": [
+        "Hassoumi Massaoudou"
+      ],
+      "stated_as": "Hassoumi Massaoudou"
+    },
+    "P582": "2020-06-29",
+    "P1366": {
+      "links": [
+        "Alkache Alhada"
+      ],
+      "stated_as": "Alkache Alhada"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of heads of state of Niger"
+      ],
+      "stated_as": "10th President of Niger"
+    },
+    "P580": "2021-04-02",
+    "P1365": {
+      "links": [
+        "Mahamadou Issoufou"
+      ],
+      "stated_as": "Mahamadou Issoufou"
+    }
+  }
+]
