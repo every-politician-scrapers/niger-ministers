@@ -55,6 +55,13 @@
           ]
         }
       ],
+      "images": [
+        {
+          "file": "File:Hassoumi_Massoudou.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Hassoumi_Massoudou.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Hassoumi_Massoudou.jpg"
+        }
+      ],
       "templates": [
         {
           "description": "Nigerien politician",
