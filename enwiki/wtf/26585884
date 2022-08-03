@@ -1,0 +1,234 @@
+{
+  "title": "Amina Bazindre",
+  "pageID": 26585884,
+  "categories": [
+    "Living people",
+    "Ambassadors of Niger to Russia",
+    "1955 births",
+    "Nigerien women ambassadors"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Amina Djibo Bazindre (born 28 January 1955) is a Nigerien diplomat.",
+              "links": [
+                {
+                  "text": "Nigerien",
+                  "type": "internal",
+                  "page": "Niger"
+                },
+                {
+                  "text": "diplomat",
+                  "type": "internal",
+                  "page": "diplomat"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Amina Djibo Bazindre"
+                ]
+              }
+            },
+            {
+              "text": "On 5 February 2010, she became Ambassador of Niger to Russia.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ambassador of Niger to Russia"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Dmitry_Medvedev_with_Amina_Djibo_Bazindre.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Dmitry_Medvedev_with_Amina_Djibo_Bazindre.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Dmitry_Medvedev_with_Amina_Djibo_Bazindre.jpg",
+          "caption": "Bazindre presenting her credentials to Dmitry Medvedev in February 2010.",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "description": "Nigerien diplomat",
+          "template": "short description"
+        },
+        {
+          "date": "December 2012",
+          "template": "orphan"
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Biography",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In 2005, Amina Bazindre is listed as the Ambassador of Niger to Hungary on the website of the Hungarian Ministry of Foreign Affairs.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ambassador of Niger to Hungary"
+                },
+                {
+                  "text": "Hungarian Ministry of Foreign Affairs",
+                  "type": "internal",
+                  "page": "Minister of Foreign Affairs (Hungary)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 5 February 2010, she became the Ambassador of Niger to Russia.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ambassador of Niger to Russia"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In January 2011, she is received by Angela Merkel and Christian Wulff as the Ambassador of Niger to Germany.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Angela Merkel"
+                },
+                {
+                  "type": "internal",
+                  "page": "Christian Wulff"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ambassador of Niger to Germany"
+                }
+              ]
+            },
+            {
+              "text": "Her responsibilities also included a diplomatic representation in Slovakia.",
+              "links": [
+                {
+                  "text": "Slovakia",
+                  "type": "internal",
+                  "page": "List of ambassadors to Slovakia"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In December 2011, she was also named Inspector of the diplomatic and consulate services of Niger."
+            },
+            {
+              "text": "In April 2013, she was named General Secretary of the national commission of the Francophonie.",
+              "links": [
+                {
+                  "text": "Francophonie",
+                  "type": "internal",
+                  "page": "Organisation internationale de la Francophonie"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On the website of the Ministry of Foreign Affairs of Romania, Amina Bazindre is listed as the Ambassador of Niger to Romania (2018).",
+              "links": [
+                {
+                  "text": "Ministry of Foreign Affairs of Romania",
+                  "type": "internal",
+                  "page": "Ministry of Foreign Affairs (Romania)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ambassador of Niger to Romania"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "africa-diplomat-stub"
+        },
+        {
+          "template": "niger-bio-stub"
+        }
+      ]
+    }
+  ]
+}
